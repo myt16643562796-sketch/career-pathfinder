@@ -1,0 +1,9 @@
+{
+  "name": "career-pathfinder",
+  "version": "1.0.0",
+  "description": "AI 岗位选择助手——通过 MBTI 式侧面问题刻画画像，搜索真实市场数据，提供 JD 人话翻译、坑点预警、35 岁护城河评估和个性化后续步骤。覆盖私企大厂、学术路线（读研读博/高校/研究院）、体制内路线（考公/考编/选调/国企）",
+  "author": "myt16643562796-sketch",
+  "license": "MIT",
+  "keywords": ["career", "job-search", "career-counseling", "ai-career", "chinese-market"],
+  "skills": ["career-pathfinder"]
+}
